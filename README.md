@@ -8,3 +8,7 @@ something about ubuntu
 ### linux 常用指令
 
 #### ll  --- 查看所有文件
+
+#### sudo apt-get install xxx 下载服务
+
+[指令](http://www.cnblogs.com/laov/p/3541414.html#zhiling)
