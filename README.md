@@ -12,3 +12,6 @@ something about ubuntu
 #### sudo apt-get install xxx 下载服务
 
 [指令](http://www.cnblogs.com/laov/p/3541414.html#zhiling)
+
+
+#### wget 来进行下载
