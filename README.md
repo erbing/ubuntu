@@ -15,3 +15,5 @@ something about ubuntu
 
 
 #### wget 来进行下载
+
+#### 在使用 ssh 时候 提示 Permission denied (publickey,password) 问题
